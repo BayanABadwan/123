@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+}
+
+.A1{
+ text-align: center;
+ height: 100px;
+}
+p
+{
+color: fuchsia;
+}
+.d{
+
+    float: left;
+    width: 20%;
+    height: 250px;
+    
+}
+p{
+    text-align: center;
+    height: 20px;
+}
+h2{
+    text-align: center;
+    height: 15px;
+}
+.clear{
+clear: left;
+}
